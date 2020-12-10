@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74ae44f7-1e0d-4d74-ab77-36f49df4aa44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven-dependcies" />
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1k2HBDhX5dj2KWXwY6bviYWOGUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\资料\myblog-mybatis-master\src\main\resources\static\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\资料\myblog-mybatis-master\src\main\resources\static\images" />
+      <recent name="D:\资料\myblog-mybatis-master\src\main\resources\templates" />
+      <recent name="D:\资料\myblog-mybatis-master\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyblogApplication">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.star.util.MD5Utils" />
+      <module name="myblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in myblog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myblog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.MyblogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="JUnit.All in myblog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74ae44f7-1e0d-4d74-ab77-36f49df4aa44" name="Default Changelist" comment="" />
+      <created>1604891629517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604891629517</updated>
+      <workItem from="1604891630657" duration="10090000" />
+      <workItem from="1604905908450" duration="30000" />
+      <workItem from="1604908311630" duration="454000" />
+      <workItem from="1604918183531" duration="2358000" />
+      <workItem from="1604920730507" duration="86000" />
+      <workItem from="1604920838684" duration="11000" />
+      <workItem from="1604920867520" duration="11288000" />
+      <workItem from="1604966529351" duration="13649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604902684405">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="525" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1604902684405" />
+    <state x="509" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604932642163">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="509" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604932642163" />
+    <state x="647" y="169" key="FileChooserDialogImpl" timestamp="1604908763147">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="647" y="169" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604908763147" />
+    <state width="1493" height="187" key="GridCell.Tab.0.bottom" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.0.center" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.0.left" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.0.right" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.1.bottom" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.1.center" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.1.left" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state width="1493" height="187" key="GridCell.Tab.1.right" timestamp="1604986014661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1604986014661" />
+    <state x="350" y="35" key="Maven.ArtifactSearchDialog" timestamp="1604898105577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="350" y="35" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1604898105577" />
+    <state x="506" y="157" key="NewModule_or_Project.wizard" timestamp="1604908764732">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="506" y="157" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1604908764732" />
+    <state x="321" y="25" key="SettingsEditor" timestamp="1604936229063">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="321" y="25" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604936229063" />
+  </component>
+</project>
